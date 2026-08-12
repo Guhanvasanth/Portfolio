@@ -77,7 +77,7 @@ Upload to GitHub Pages for free hosting.
     <section>
         <div class="card">
             <h2>About Me</h2>
-            <p>Hi, I'm Guhan Vasanth A , currently pursuing my B.Tech cse(cs) at Saveetha Engineering College. I'm passionate about web development, UI/UX design, and constantly learning new technologies. I have completed a 2-month internship at a software company, gaining practical experience in the tech industry.</p>
+            <p>Hi, I'm Guhan Vasanth A , currently pursuing my B.E cse(cs) at Saveetha Engineering College. I'm passionate about web development, UI/UX design, and constantly learning new technologies. I have completed a 2-month internship at a software company, gaining practical experience in the tech industry.</p>
         </div>
 
         <div class="card">
@@ -98,3 +98,15 @@ Upload to GitHub Pages for free hosting.
     </footer>
 </body>
 </html>
+```
+
+
+
+
+
+## OUTPUT
+https://kommodo.ai/i/RYByCr6upFPmhFzeApMW
+
+
+## RESULT
+The program for creating Portfolio using HTML and CSS is executed successfully.
